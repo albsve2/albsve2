@@ -11,11 +11,12 @@ You can find the main deliverables for the following university courses here:
 
 ### Currently working on...
 
+Implementing AI, ML and Vision into Robotics at the Electrical division of Uppsala University
+
 #### Current university courses
 
 
 #### Personal projects
-- [Vision Project](https://github.com/alexandersundquist/TOP)](https://github.com/albsve2/Projekt-Vision)
 
 **See you! 👋**
 <!--
