@@ -13,6 +13,8 @@ You can find the main deliverables for the following university courses here:
 
 Implementing AI, ML and Vision into Robotics at the Electrical division of Uppsala University
 
+Hackathon with UU AI Soceity in collaboration with Uppsala Municipality 
+
 #### Current university courses
 
 
